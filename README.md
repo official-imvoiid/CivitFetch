@@ -28,7 +28,7 @@ The `Interfaces` folder contains screenshots of the CLI and GUI applications for
 ## Installation
 
 1.  Ensure you have Python 3.8+ installed.
-2.  Run the `Install_requirements.bat` script. This will install the necessary Python libraries listed in `requirements.txt` using pip[cite: 4].
+2.  Run the `Install_requirements.bat` script. This will install the necessary Python libraries listed in `requirements.txt` using pip.
     ```bash
     # Alternatively, install manually:
     pip install -r requirements.txt
