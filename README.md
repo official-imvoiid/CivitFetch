@@ -70,4 +70,4 @@ The `Interfaces` folder contains screenshots of the CLI and GUI applications for
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE.txt` file for details[cite: 1, 2, 3].
+This project is licensed under the MIT License. See the `LICENSE.txt` file for details.
